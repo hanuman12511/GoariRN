@@ -1,0 +1,15 @@
+export const TOKEN = 'LOGIN_TOKEN';
+export const SIGN_IN = 'SIGN_IN';
+export const SIGN_OUT = 'SIGN_OUT';
+export const USER_ROLE = 'USER_ROLE';
+export const USER_DATA = 'USER_DATA';
+export const ONLINE_STATUS = 'ONLINE_STATUS';
+export const RESTORE_TOKEN = 'RESTORE_TOKEN';
+export const PROFILE_STATUS = 'PROFILE_STATUS';
+export const COMPLETE_PROFILE = 'COMPLETE_PROFILE';
+export const COMPLETE_PROFILE_STATUS = 'COMPLETE_PROFILE_STATUS';
+export const FIRST_TIME_USER = 'FIRST_TIME_USER';
+export const VERIFY_ACCOUNT = 'VERIFY_ACCOUNT';
+export const accessToken = 'accessToken';
+export const EMAIL = 'email';
+export const GUEST_USER = 'GUEST_USER';

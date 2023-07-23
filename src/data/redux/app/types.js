@@ -1,0 +1,5 @@
+export const CONTACT_INFO = 'app/CONTACT_INFO';
+export const GET_NOTIFICATION = 'app/GET_NOTIFICATION';
+export const RESET_NOTIFICATION_COUNT = 'app/RESET_NOTIFICATION_COUNT';
+
+export const ERROR = 'app/ERROR';
